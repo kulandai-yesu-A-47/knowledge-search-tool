@@ -1,0 +1,14 @@
+# Virtual Environments
+Backend1/vir/
+Backend1/venv/
+Backend1/env/
+
+# Node Modules
+Frontend/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
